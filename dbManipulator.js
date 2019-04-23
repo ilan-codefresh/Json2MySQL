@@ -5,7 +5,7 @@ const debug = require('debug')('DB');
 
 let _connection;
 let _host = "";
-let _user = "";
+var _user = "";
 var _password = "";
 var _dbName = "";
 let _tblName = "";
