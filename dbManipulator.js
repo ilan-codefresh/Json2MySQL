@@ -9,7 +9,7 @@ var _user = "";
 var _password = "";
 let _dbName = "";
 let _tblName = "";
-//let testingPush = 'PUSH';
+let testingPush = 'PUSH';
 
 
 // Public Functions:
