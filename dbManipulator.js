@@ -4,7 +4,7 @@ const mysql = require('promise-mysql');
 const debug = require('debug')('DB');
 
 let _connection;
-var _host = "";
+let _host = "";
 let _user = "";
 var _password = "";
 var _dbName = "";
