@@ -8,8 +8,8 @@ var _host = "";
 var _user = "";
 var _password = "";
 let _dbName = "";
-let _tblName = "";
-let testingPush = 'PUSH';
+var _tblName = "";
+//let testingPush = 'PUSH';
 
 
 // Public Functions:
