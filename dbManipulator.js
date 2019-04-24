@@ -3,7 +3,7 @@
 const mysql = require('promise-mysql');
 const debug = require('debug')('DB');
 
-let _connection;
+var _connection;
 let _host = "";
 var _user = "";
 var _password = "";
