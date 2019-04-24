@@ -7,7 +7,7 @@ var _connection;
 let _host = "";
 let _user = "";
 var _password = "";
-let _dbName = "";
+var _dbName = "";
 let _tblName = "";
 //let testingPush = 'PUSH';
 
